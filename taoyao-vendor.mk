@@ -9,6 +9,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/taoyao/proprietary/vendor/lib/libaudiocloudctrl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudiocloudctrl.so \
     vendor/xiaomi/taoyao/proprietary/vendor/etc/displayconfig/display_id_4630946480857061762.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630946480857061762.xml \
     vendor/xiaomi/taoyao/proprietary/vendor/etc/displayconfig/display_id_4630946545580055170.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630946545580055170.xml \
+    vendor/xiaomi/taoyao/proprietary/product/etc/device_features/taoyao.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/device_features/taoyao.xml \
     vendor/xiaomi/taoyao/proprietary/system_ext/bin/dpmd:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/dpmd \
     vendor/xiaomi/taoyao/proprietary/system_ext/bin/wfdservice:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/wfdservice \
     vendor/xiaomi/taoyao/proprietary/system_ext/etc/dpm/dpm.conf:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/dpm/dpm.conf \
